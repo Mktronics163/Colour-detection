@@ -1,1 +1,2 @@
 # Colour-detection
+Colour detection using opencv and numpy,this can be used to detect any colour,it is mostly used at homes,,school,industry,agricultural sector,even in medical sector.This industrial section can use it to classify their product before packing it,for example,Coca-Cola uses red nylon for their brand name,instead of people working asiduously to ramp the nylon round the bottle,this colour detection algorithm can be utilize to a robotics arm to perform the work
